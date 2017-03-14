@@ -1,2 +1,4 @@
 # Docs
-The Docs page (subdomain)
+**These are the docs for the citron website**
+
+go to [docs.citron.cf](http://docs.citron.cf)
