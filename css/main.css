@@ -1,3 +1,4 @@
+@import url('https://fonts.googleapis.com/css?family=Inconsolata');
 /*Grid System*/
 * {
     box-sizing: border-box;
@@ -104,6 +105,7 @@ p {
   text-decoration: none;
   -webkit-transition-duration: 0.4s; /* Safari */
   transition-duration: 0.4s;
+  font-family:'Inconsolata';
 }
 .about a:hover {
   color: #ff660a;
