@@ -106,7 +106,7 @@ p {
   transition-duration: 0.4s;
 }
 .about a:hover {
-  color: white;
+  color: #ff660a;
 }
 .about a,visited {
   color: #999491;
