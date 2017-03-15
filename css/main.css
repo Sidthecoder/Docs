@@ -107,6 +107,11 @@ p {
   transition-duration: 0.4s;
   font-family:'Inconsolata';
 }
+.nav a:hover{
+    color:#ff660a;
+    -webkit-transition-duration:0.4s; /* Safari */
+    transition-duration:0.4s;
+}
 .about a:hover {
   color: #ff660a;
 }
