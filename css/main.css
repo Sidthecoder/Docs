@@ -40,6 +40,10 @@
 
 h1, h2, h3, h4, h5, h6 {
     font-family:Arial;
+    animation-name: dropNav;
+    animation-iteration-count: 1;
+    animation-timing-function: ease-out;
+    animation-duration: 1s;
 }
 h1 {
     font-size:60px;
