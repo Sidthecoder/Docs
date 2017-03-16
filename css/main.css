@@ -117,7 +117,7 @@ p {
     left:30%;
     text-align:center;
     position:fixed;
-    animation-name: dropHeader;
+    animation-name: dropNav;
     animation-iteration-count: 1;
     animation-timing-function: ease-out;
     animation-duration: 1s;
