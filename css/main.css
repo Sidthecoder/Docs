@@ -119,7 +119,7 @@ p {
 }
 .nav {
     top:3%;
-    left:30%;
+    left:60%;
     text-align:center;
     position:fixed;
     animation-name: dropNav;
