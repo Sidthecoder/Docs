@@ -1,4 +1,7 @@
 @import url('https://fonts.googleapis.com/css?family=Inconsolata');
+@import url('https://fonts.googleapis.com/css?family=Nunito+Sans');
+
+
 /*Grid System*/
 * {
     box-sizing: border-box;
@@ -77,7 +80,7 @@ body {
 p {
     font-size:20px;
     text-align:left;
-    font-family:  Comic Sans MS;
+    font-family: 'Nunito Sans', sans-serif;
 }
 
 .button {
@@ -90,7 +93,7 @@ p {
     -webkit-transition-duration:0.5s;
     transition-duration:0.5s;
     text-decoration:none;
-    font-family:Arial;
+    font-family: 'Nunito Sans', sans-serif;
 }
 .button:hover {
     -webkit-transition-duration:0.5s;
